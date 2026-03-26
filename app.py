@@ -3468,7 +3468,7 @@ Users are therefore advised to apply professional judgment when interpreting out
 This application, including its analytical architecture, factor-engine design, forecasting system, scenario engine, regime-classification structure, and methodological documentation, is the intellectual work of:
 
 **Chirume A.T.**  
-**Ph.D\* (DUT, Candidate), MA (Uni of Tsukuba, Japan), MSc, BSc (Hons) Econ (UZ)**, DSML (MIT)
+**Ph.D\* (DUT, Candidate), MA (Uni of Tsukuba, Japan), MSc, BSc (Hons) Econ (UZ), DSML (MIT)**
 
 ### Further Enquiries
 
