@@ -203,7 +203,7 @@ button[kind="primary"], .stDownloadButton button {
 # =========================================================
 # GLOBAL SETTINGS
 # =========================================================
-DEFAULT_DATA_PATH = "/Users/USER/Documents/Models and Programs/simulated_zimbabwe_inflation_data_augmented.csv"
+DEFAULT_DATA_PATH = "simulated_zimbabwe_inflation_data_augmented.csv"
 
 SADC_LOWER = 3.0
 SADC_UPPER = 7.0
@@ -3477,4 +3477,4 @@ For further enquiries, clarification, or technical correspondence, refer to the 
 **Chirume A.T.**  
 **Mobile:** +263 773 369 884
 """)
-st.caption("Run this app with: streamlit run 4.py")
+st.caption("app.py")
